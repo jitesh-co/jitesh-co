@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 ![Jitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitesh-co&count_private=true&show_icons=true&theme=radical&hide=stars,prs,issues,contribs)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-co&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-co&layout=compact)]
